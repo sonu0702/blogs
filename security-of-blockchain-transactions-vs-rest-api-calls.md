@@ -1,12 +1,9 @@
 ---
-title: "All the models"
+title: "Security of Blockchain Transactions vs. REST API Calls"
 date: "2024-09-19"
 description: "Security of Blockchain Transactions vs. REST API Calls."
 tags: ["web3", "learning", "explainlikeiamfive"]
 ---
-
-
-![Security of Blockchain Transactions vs. REST API Calls.](images/security-of-blockchain-transactions-vs-rest-api-calls.webp)
 
 ### REST API Calls
 
